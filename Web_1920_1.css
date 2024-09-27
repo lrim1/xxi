@@ -1,0 +1,714 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 –1;
+	--web-view-id: Web_1920_1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920_1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920_1 {
+	position: absolute;
+	width: 1920px;
+	height: 2657px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 –1;
+	--web-view-id: Web_1920_1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+#aaa {
+	fill: transparent;
+}
+.aaa {
+	position: absolute;
+	overflow: visible;
+	width: 188px;
+	height: 83px;
+	left: 928px;
+	top: 61px;
+}
+#aab {
+	fill: transparent;
+}
+.aab {
+	position: absolute;
+	overflow: visible;
+	width: 113px;
+	height: 76px;
+	left: 1131px;
+	top: 61px;
+}
+#aac {
+	fill: transparent;
+}
+.aac {
+	position: absolute;
+	overflow: visible;
+	width: 197px;
+	height: 51px;
+	left: 1287px;
+	top: 79px;
+}
+#aad {
+	fill: transparent;
+}
+.aad {
+	position: absolute;
+	overflow: visible;
+	width: 183px;
+	height: 62px;
+	left: 1682px;
+	top: 81px;
+}
+#aae {
+	position: absolute;
+	width: 1966.97px;
+	height: 2742px;
+	left: -10.485px;
+	top: -2px;
+	overflow: visible;
+}
+#aaf {
+	position: absolute;
+	width: 1966.97px;
+	height: 2742px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#aag {
+	fill: transparent;
+}
+.aag {
+	position: absolute;
+	overflow: visible;
+	width: 168px;
+	height: 58px;
+	left: 466px;
+	top: 41px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920__11.html;
+	cursor: pointer;
+}
+#aah {
+	fill: transparent;
+}
+.aah {
+	position: absolute;
+	overflow: visible;
+	width: 132px;
+	height: 26px;
+	left: 874px;
+	top: 55px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920__6.html;
+	cursor: pointer;
+}
+#aai {
+	fill: transparent;
+}
+.aai {
+	position: absolute;
+	overflow: visible;
+	width: 124px;
+	height: 26px;
+	left: 1102px;
+	top: 55px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920__10.html;
+	cursor: pointer;
+}
+#aaj {
+	fill: transparent;
+}
+.aaj {
+	overflow: visible;
+	position: absolute;
+	width: 45px;
+	height: 40px;
+	left: 1297px;
+	top: 46px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920__5.html;
+	cursor: pointer;
+}
+#aak {
+	fill: transparent;
+}
+.aak {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 40px;
+	left: 1352px;
+	top: 46px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920__7.html;
+	cursor: pointer;
+}
+#aal {
+	fill: transparent;
+}
+.aal {
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	height: 40px;
+	left: 1013px;
+	top: 46px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920__8.html;
+	cursor: pointer;
+}
+#aam {
+	fill: transparent;
+}
+.aam {
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	height: 51px;
+	left: 682px;
+	top: 859px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920__19.html;
+	cursor: pointer;
+}
+#aan {
+	fill: transparent;
+}
+.aan {
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	height: 51px;
+	left: 1041px;
+	top: 859px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920__18.html;
+	cursor: pointer;
+}
+#aao {
+	fill: transparent;
+}
+.aao {
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	height: 51px;
+	left: 1400px;
+	top: 859px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920__17.html;
+	cursor: pointer;
+}
+#aap {
+	fill: transparent;
+}
+.aap {
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	height: 51px;
+	left: 682px;
+	top: 1399px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920__23.html;
+	cursor: pointer;
+}
+#aaq {
+	fill: transparent;
+}
+.aaq {
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	height: 51px;
+	left: 1041px;
+	top: 1399px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920__20.html;
+	cursor: pointer;
+}
+#aar {
+	fill: transparent;
+}
+.aar {
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	height: 51px;
+	left: 1400px;
+	top: 1399px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920__21.html;
+	cursor: pointer;
+}
+#aas {
+	fill: transparent;
+}
+.aas {
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	height: 51px;
+	left: 682px;
+	top: 1969px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920__24.html;
+	cursor: pointer;
+}
+#aat {
+	fill: transparent;
+}
+.aat {
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	height: 51px;
+	left: 1041px;
+	top: 1969px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920__22.html;
+	cursor: pointer;
+}
+#aau {
+	fill: transparent;
+}
+.aau {
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	height: 51px;
+	left: 1400px;
+	top: 1969px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920__30.html;
+	cursor: pointer;
+}
+#aav {
+	fill: transparent;
+}
+.aav {
+	position: absolute;
+	overflow: visible;
+	width: 264px;
+	height: 387px;
+	left: 485px;
+	top: 452px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920__34.html;
+	cursor: pointer;
+}
+#aaw {
+	fill: transparent;
+}
+.aaw {
+	position: absolute;
+	overflow: visible;
+	width: 140px;
+	height: 60px;
+	left: 494px;
+	top: 859px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920__34.html;
+	cursor: pointer;
+}
+#aax {
+	fill: transparent;
+}
+.aax {
+	position: absolute;
+	overflow: visible;
+	width: 236px;
+	height: 341px;
+	left: 852px;
+	top: 481px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920__38.html;
+	cursor: pointer;
+}
+#aay {
+	fill: transparent;
+}
+.aay {
+	position: absolute;
+	overflow: visible;
+	width: 156px;
+	height: 66px;
+	left: 834px;
+	top: 853px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920__38.html;
+	cursor: pointer;
+}
+#aaz {
+	fill: transparent;
+}
+.aaz {
+	width: 242.692px;
+	height: 341.435px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,1205.08,480.6604) rotate(1deg);
+	transform-origin: center;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920__35.html;
+	cursor: pointer;
+}
+#aba {
+	fill: transparent;
+}
+.aba {
+	position: absolute;
+	overflow: visible;
+	width: 196px;
+	height: 61px;
+	left: 1193px;
+	top: 853px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920__35.html;
+	cursor: pointer;
+}
+#abb {
+	fill: transparent;
+}
+.abb {
+	position: absolute;
+	overflow: visible;
+	width: 174px;
+	height: 66px;
+	left: 485px;
+	top: 1399px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920__41.html;
+	cursor: pointer;
+}
+#abc {
+	fill: transparent;
+}
+.abc {
+	position: absolute;
+	overflow: visible;
+	width: 190px;
+	height: 370px;
+	left: 526px;
+	top: 1016px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920__41.html;
+	cursor: pointer;
+}
+#abd {
+	fill: transparent;
+}
+.abd {
+	position: absolute;
+	overflow: visible;
+	width: 268px;
+	height: 330px;
+	left: 834px;
+	top: 1039px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920__40.html;
+	cursor: pointer;
+}
+#abe {
+	fill: transparent;
+}
+.abe {
+	position: absolute;
+	overflow: visible;
+	width: 170px;
+	height: 112px;
+	left: 848px;
+	top: 1356px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920__40.html;
+	cursor: pointer;
+}
+#abf {
+	fill: transparent;
+}
+.abf {
+	position: absolute;
+	overflow: visible;
+	width: 296px;
+	height: 234px;
+	left: 1188px;
+	top: 1122px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920__32.html;
+	cursor: pointer;
+}
+#abg {
+	fill: transparent;
+}
+.abg {
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	height: 73px;
+	left: 1197px;
+	top: 1386px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920__32.html;
+	cursor: pointer;
+}
+#abh {
+	fill: transparent;
+}
+.abh {
+	position: absolute;
+	overflow: visible;
+	width: 180px;
+	height: 404px;
+	left: 861px;
+	top: 1591px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920__25.html;
+	cursor: pointer;
+}
+#abi {
+	fill: transparent;
+}
+.abi {
+	position: absolute;
+	overflow: visible;
+	width: 145px;
+	height: 66px;
+	left: 836px;
+	top: 1965px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920__22.html;
+	cursor: pointer;
+}
+#abj {
+	fill: transparent;
+}
+.abj {
+	position: absolute;
+	overflow: visible;
+	width: 281px;
+	height: 337px;
+	left: 468px;
+	top: 1591px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920__33.html;
+	cursor: pointer;
+}
+#abk {
+	fill: transparent;
+}
+.abk {
+	position: absolute;
+	overflow: visible;
+	width: 163px;
+	height: 98px;
+	left: 485px;
+	top: 1922px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920__33.html;
+	cursor: pointer;
+}
+#abl {
+	fill: transparent;
+}
+.abl {
+	position: absolute;
+	overflow: visible;
+	width: 254px;
+	height: 331px;
+	left: 1197px;
+	top: 1591px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920__37.html;
+	cursor: pointer;
+}
+#abm {
+	fill: transparent;
+}
+.abm {
+	position: absolute;
+	overflow: visible;
+	width: 139px;
+	height: 67px;
+	left: 1197px;
+	top: 1953px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920__37.html;
+	cursor: pointer;
+}
